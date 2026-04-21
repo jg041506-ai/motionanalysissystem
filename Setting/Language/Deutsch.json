@@ -1,0 +1,27 @@
+{
+    "System": {
+        "tab_client_info": "  Persönliche Info  ",
+        "tab_body_landmarks": "  Körper-Landmarken  ",
+        "tab_tools_tracking": "  Werkzeug-Tracking  ",
+        "tab_sport_analysis": "  Bewegungsanalyse  ",
+        "tab_compare_data": "  Daten vergleichen  ",
+        "tab_setting": "  Einstellungen  ",
+        "lbl_client_name": "Name:",
+        "lbl_date": "Datum:",
+        "lbl_examiner": "Prüfer:",
+        "btn_save": "Speichern",
+        "btn_delete": "Löschen",
+        "btn_run": "Programm starten (Video wählen & analysieren)",
+        "btn_apply": "Einstellungen anwenden"
+    },
+    "Output": {
+        "pdf_main_title": "Biomechanischer Analysebericht",
+        "pdf_compare_title": "Pre-Test vs Post-Test Vergleichsbericht",
+        "lbl_name": "Name:",
+        "lbl_date": "Datum:",
+        "lbl_examiner": "Prüfer:",
+        "lbl_signature": "Unterschrift:",
+        "status_pass": "BESTANDEN (Gute Haltung)",
+        "status_fail": "FEHLER (Abweichung erkannt)"
+    }
+}

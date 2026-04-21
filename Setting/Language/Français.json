@@ -1,0 +1,27 @@
+{
+    "System": {
+        "tab_client_info": "  Informations Personnelles  ",
+        "tab_body_landmarks": "  Points de Repère  ",
+        "tab_tools_tracking": "  Suivi des Outils  ",
+        "tab_sport_analysis": "  Analyse du Mouvement  ",
+        "tab_compare_data": "  Comparer les Données  ",
+        "tab_setting": "  Paramètres  ",
+        "lbl_client_name": "Nom:",
+        "lbl_date": "Date:",
+        "lbl_examiner": "Examinateur:",
+        "btn_save": "Enregistrer",
+        "btn_delete": "Supprimer",
+        "btn_run": "Lancer le Programme (Analyser Vidéo)",
+        "btn_apply": "Appliquer les Paramètres"
+    },
+    "Output": {
+        "pdf_main_title": "Rapport d'Analyse Biomécanique",
+        "pdf_compare_title": "Rapport Comparatif Pré-Test vs Post-Test",
+        "lbl_name": "Nom:",
+        "lbl_date": "Date:",
+        "lbl_examiner": "Examinateur:",
+        "lbl_signature": "Signature:",
+        "status_pass": "VALIDE (Bonne Posture)",
+        "status_fail": "ALERTE (Erreur Détectée)"
+    }
+}

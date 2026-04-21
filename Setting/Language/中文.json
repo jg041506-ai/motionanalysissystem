@@ -1,0 +1,27 @@
+{
+    "System": {
+        "tab_client_info": "資訊",
+        "tab_body_landmarks": "關鍵點",
+        "tab_tools_tracking": "追蹤",
+        "tab_sport_analysis": "分析",
+        "tab_compare_data": "對比",
+        "tab_setting": "設定",
+        "lbl_client_name": "姓名:",
+        "lbl_date": "日期:",
+        "lbl_examiner": "檢查:",
+        "btn_save": "儲存",
+        "btn_delete": "刪除",
+        "btn_run": "執行",
+        "btn_apply": "套用"
+    },
+    "Output": {
+        "pdf_main_title": "分析報告",
+        "pdf_compare_title": "對比報告",
+        "lbl_name": "姓 名 :",
+        "lbl_date": "日 期 :",
+        "lbl_examiner": "測 :",
+        "lbl_signature": "簽 名 :",
+        "status_pass": "正常",
+        "status_fail": "異常"
+    }
+}

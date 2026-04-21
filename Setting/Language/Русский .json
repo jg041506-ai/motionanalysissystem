@@ -1,0 +1,27 @@
+{
+    "System": {
+        "tab_client_info": "  Личная информация  ",
+        "tab_body_landmarks": "  Анатомические ориентиры  ",
+        "tab_tools_tracking": "  Отслеживание инвентаря  ",
+        "tab_sport_analysis": "  Анализ движений  ",
+        "tab_compare_data": "  Сравнение данных  ",
+        "tab_setting": "  Настройки  ",
+        "lbl_client_name": "Имя:",
+        "lbl_date": "Дата:",
+        "lbl_examiner": "Специалист:",
+        "btn_save": "Сохранить",
+        "btn_delete": "Удалить",
+        "btn_run": "Запустить (Выбрать видео и анализировать)",
+        "btn_apply": "Применить настройки"
+    },
+    "Output": {
+        "pdf_main_title": "Отчет по биомеханическому анализу",
+        "pdf_compare_title": "Сравнительный отчет (До и После)",
+        "lbl_name": "Имя:",
+        "lbl_date": "Дата:",
+        "lbl_examiner": "Специалист:",
+        "lbl_signature": "Подпись:",
+        "status_pass": "НОРМА (Правильная осанка)",
+        "status_fail": "ВНИМАНИЕ (Обнаружено отклонение)"
+    }
+}

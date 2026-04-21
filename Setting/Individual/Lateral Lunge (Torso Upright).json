@@ -1,9 +1,0 @@
-{
-  "analysis_name": "Lateral Lunge (Torso Upright)",
-  "measure_type": "angle",
-  "target_points": ["R_Shoulder", "R_Hip", "R_Knee"],
-  "condition": "under",
-  "threshold": 110.0,
-  "param_name": "Torso Angle (deg)",
-  "image_file": "lunge_side.png"
-}

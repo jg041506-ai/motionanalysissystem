@@ -1,1 +1,27 @@
-
+{
+    "System": {
+        "tab_client_info": "  Personal Info  ",
+        "tab_body_landmarks": "  Body Landmarks  ",
+        "tab_tools_tracking": "  Tools Tracking  ",
+        "tab_sport_analysis": "  Sport Analysis  ",
+        "tab_compare_data": "  Compare Data  ",
+        "tab_setting": "  Setting  ",
+        "lbl_client_name": "Name:",
+        "lbl_date": "Date:",
+        "lbl_examiner": "Examiner:",
+        "btn_save": "Save",
+        "btn_delete": "Delete",
+        "btn_run": "Run Program (Select Video & Analyze)",
+        "btn_apply": "Apply Settings"
+    },
+    "Output": {
+        "pdf_main_title": "Biomechanics Analysis Report",
+        "pdf_compare_title": "Pre-Test vs Post-Test Comparison Report",
+        "lbl_name": "Name:",
+        "lbl_date": "Date:",
+        "lbl_examiner": "Examiner:",
+        "lbl_signature": "Signature:",
+        "status_pass": "PASS (Good Posture)",
+        "status_fail": "FAIL (Error Detected)"
+    }
+}

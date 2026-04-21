@@ -1,0 +1,11 @@
+[
+  {
+    "analysis_name": "Single Leg Stand Balance",
+    "measure_type": "sway",
+    "target_point": "Mid_Hip",
+    "condition": "over",
+    "threshold": 30.0,
+    "param_name": "Pelvic Sway (px)",
+    "image_file": "single_leg.png"
+  }
+]

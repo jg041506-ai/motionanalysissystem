@@ -1,0 +1,26 @@
+[
+  {
+    "analysis_name": "Left_Squat_Depth",
+    "measure_type": "angle",
+    "target_points": [
+      "L_Hip",
+      "L_Knee",
+      "L_Ankle"
+    ],
+    "threshold": 90.0,
+    "condition": "under",
+    "param_name": "L Knee Angle (deg)"
+  },
+  {
+    "analysis_name": "Left_Hip_Flexion",
+    "measure_type": "angle",
+    "target_points": [
+      "L_Shoulder",
+      "L_Hip",
+      "L_Knee"
+    ],
+    "threshold": 70.0,
+    "condition": "under",
+    "param_name": "L Hip Angle (deg)"
+  }
+]
